@@ -1,0 +1,13 @@
+{
+  "name": "Box Skills + Clarifai",
+  "description": "A simple implementation of Clarifai with Box Skills",
+  "repository": "https://github.com/jcleblanc/box-skills/tree/master/clarifai_heroku",
+  "keywords": ["node"],
+  "website": "https://developer.box.com",
+  "env": {
+    "clarifaiKey": {
+        "description": "Clarifai API key"
+    }
+  },
+  "image": "heroku/node"
+}
