@@ -10,7 +10,7 @@ Clarifai is a machine learning system that is geared towards image categorizatio
 
 This sample may be deployed to any public hosting solution (e.g. Heroku, hosted site, etc.) that allows for Node to be run. 
 
-To run a quick setup on Heroku, click the button below
+To run a quick setup on Heroku, click the button below  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PreciselyAlyss/box-skills/tree/heroku-button)
 
 
